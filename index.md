@@ -1,4 +1,4 @@
 ---
-title: Home
+title: Oversigt
 layout: home
 ---
