@@ -1,6 +1,6 @@
 ---
+title: API Doc v1
 layout: default
-title: Changelog
-nav_order: 2
-has_children: true
+parent: Changelog
+nav_order: 99
 ---
